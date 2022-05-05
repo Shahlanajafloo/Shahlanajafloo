@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shahlanajafloo
-- 🎯 I’m AI PhD student
+- 🎯 AI PhD student
 
 
 <!---
